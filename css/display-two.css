@@ -1,0 +1,12 @@
+.displayTwo h1 {
+  font-size: 2.4rem;
+  opacity: 0.8;
+  font-family: DM Sans, sans-serif;
+}
+
+.displayTwo button {
+  width: 16.6rem;
+  height: 5.3rem;
+  margin-top: 4.9rem;
+  border-radius: 0.4rem;
+}
